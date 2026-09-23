@@ -2,7 +2,7 @@
 
 # 🛡️ SAC Anti-Cheat — Host-Side Anti-Cheat for Multiplayer
 
-> 🎮 **SAC (Sentinel Anti-Cheat)** is a **host-side anti-cheat plugin** for **Casualties Unknown** (multiplayer mod `KrokoshaCasualtiesMP`), used to detect and handle cheating on the host's side.
+> 🎮 **SAC (S Anti-Cheat)** is a **host-side anti-cheat plugin** for **Casualties Unknown** (multiplayer mod `KrokoshaCasualtiesMP`), used to detect and handle cheating on the host's side.
 >
 > 🧩 **Version**: `1.2.101` · **Plugin file**: `SAC.dll` · **Platform**: BepInEx 5 / .NET 4.8
 >
