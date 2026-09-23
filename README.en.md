@@ -124,7 +124,6 @@ BepInEx/plugins/
 - Added an **Intercept + Pull Back** handling mode (revert abnormal behavior), designed to avoid repeated triggering.
 - Added: debug packet filter, first-launch notice, runtime environment check.
 - UI overhaul: Chinese/English, emoji, grouped settings, sliders apply on release.
-- Reworked the publish-DLL protection pipeline (anti-decompile / anti-copy) and continued stability/compatibility fixes.
 
 **V1.0**
 - First release: host-side behavioral detection, evidence logging, ban/OP lists, game status page.
